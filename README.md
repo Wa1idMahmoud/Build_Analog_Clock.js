@@ -1,6 +1,6 @@
 # Build_Analog_Clock_js
 
-### Live Demo of the Analog Clock: [Live Analog Clock](https://wa1idmahmoud.github.io/Build_Analog_Clock_js/)
+### Live Demo of the Analog Clock: [Live Analog Clock](https://wa1idmahmoud.github.io/Build_Analog_Clock.js/)
 
 
 Followed the steps in this Video to build a Analog Clock.
